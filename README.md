@@ -32,13 +32,13 @@ Settings → Developer Options → Enable USB Debugging
 3. Clone repository
 ```cmd
 git clone https://github.com/Misuu-Code/Android-Device-Viewer.git
-cd android-device-info
+cd Android-Device-Viewer
 
 # Install dependencies
 pip install colorama
 
 # Run tool
-python device_info.py
+python info.py
 ```
 
 ## 🤝 Contributing
